@@ -1,0 +1,15 @@
+C:\Users\Konyicska.kristof\source\repos\szokereso\szokereso\bin\Debug\net6.0\szokereso.exe
+C:\Users\Konyicska.kristof\source\repos\szokereso\szokereso\bin\Debug\net6.0\szokereso.deps.json
+C:\Users\Konyicska.kristof\source\repos\szokereso\szokereso\bin\Debug\net6.0\szokereso.runtimeconfig.json
+C:\Users\Konyicska.kristof\source\repos\szokereso\szokereso\bin\Debug\net6.0\szokereso.dll
+C:\Users\Konyicska.kristof\source\repos\szokereso\szokereso\bin\Debug\net6.0\szokereso.pdb
+C:\Users\Konyicska.kristof\source\repos\szokereso\szokereso\obj\Debug\net6.0\szokereso.csproj.AssemblyReference.cache
+C:\Users\Konyicska.kristof\source\repos\szokereso\szokereso\obj\Debug\net6.0\szokereso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konyicska.kristof\source\repos\szokereso\szokereso\obj\Debug\net6.0\szokereso.AssemblyInfoInputs.cache
+C:\Users\Konyicska.kristof\source\repos\szokereso\szokereso\obj\Debug\net6.0\szokereso.AssemblyInfo.cs
+C:\Users\Konyicska.kristof\source\repos\szokereso\szokereso\obj\Debug\net6.0\szokereso.csproj.CoreCompileInputs.cache
+C:\Users\Konyicska.kristof\source\repos\szokereso\szokereso\obj\Debug\net6.0\szokereso.dll
+C:\Users\Konyicska.kristof\source\repos\szokereso\szokereso\obj\Debug\net6.0\refint\szokereso.dll
+C:\Users\Konyicska.kristof\source\repos\szokereso\szokereso\obj\Debug\net6.0\szokereso.pdb
+C:\Users\Konyicska.kristof\source\repos\szokereso\szokereso\obj\Debug\net6.0\szokereso.genruntimeconfig.cache
+C:\Users\Konyicska.kristof\source\repos\szokereso\szokereso\obj\Debug\net6.0\ref\szokereso.dll
